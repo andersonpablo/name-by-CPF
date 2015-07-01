@@ -6,7 +6,7 @@ Para que seja possível obter o nome do titular pelo CPF, será necessário cria
 
 	<input type="text" class="cpf_nome" readonly="readonly" />
 	
-Em seguida, inserir um botão/link que abrirá a popup/aba de [URL https://www.cpfcnpj.com.br/popup/popup.php](https://www.cpfcnpj.com.br/popup/popup.php), onde será inserido o CPF:
+Em seguida, inserir um botão/link que abrirá a popup/aba de URL [https://www.cpfcnpj.com.br/popup/popup.php](https://www.cpfcnpj.com.br/popup/popup.php), onde será inserido o CPF:
 	
 	<input type="button" value="Verificar CPF" onclick="window.open('https://www.cpfcnpj.com.br/popup/popup.php', 'Janela', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, width=640, height=480, top=0, right=0').focus();" />
 	
