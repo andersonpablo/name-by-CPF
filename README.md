@@ -23,7 +23,7 @@ Em seguida, inserir um botão/link que abrirá o pop-up de URL [https://www.cpfc
 2. Só é permitido 1 consulta a cada 30 segundos por IP.
 3. São permitidos apenas acessos de IPs brasileiros.
 4. Proxy´s são bloqueados.
-5. Teste o exemplo.html em servior externo, pois não funcionará em servidor local.
+5. Teste o [exemplo.html](https://github.com/alissonlinneker/name-by-CPF/blob/master/exemplo.html) em servior externo, pois não funcionará em servidor local.
 
 # Exemplo em produção
 
